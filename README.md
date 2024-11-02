@@ -18,11 +18,11 @@ I am a passionate **Python Developer** with expertise in building scalable and e
 - **Team Player**: I thrive in collaborative environments and enjoy sharing knowledge and learning from others.
 - **Effective Communicator**: Clear communication is a priority for me, both in code and with colleagues.
 
-## 💼 Projects and Contributions
+## 💼 Work Experience
 
-My projects showcase a variety of technologies, from microservices with FastAPI to full-stack applications with Django. I am also experienced in setting up efficient development pipelines using Docker and CI/CD tools.
-
-Explore my repositories to see how I apply these skills in real-world projects!
+- Simetrik (April 2022 - Present)
+- Agentemotor (March 2021 - April 2022)
+- Ticware Solutions (December 2020 - March 2021)
 
 ---
 
